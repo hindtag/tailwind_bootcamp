@@ -4,7 +4,7 @@ This is where I store my tailwind development journey.
 
 ## Notable progress
 
-- [ ] Basic - continue on video 3
+- [ ] Basic - continue on video 6
 - [ ] Advance
 - [ ] Pro
 
