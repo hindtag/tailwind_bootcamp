@@ -4,6 +4,7 @@ This is where I store my tailwind development journey.
 
 ## Notable progress
 
+- [x] The netninja
 - [ ] Basic - continue on video 13
 - [ ] Advance
 - [ ] Pro
